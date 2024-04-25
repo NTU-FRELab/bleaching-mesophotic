@@ -2,7 +2,7 @@
 
 ---
 
-This Linetal_submitted_dataset_README.txt file was generated on 2024-04-25 by Yuting Vicky Lin (vicky.linyuting@gmail.com). Knit [Lin_et_al_MB.Rmd](Lin_et_al_MB.Rmd) to generate html and extract R code.
+This README was generated on 2024-04-25 by Yuting Vicky Lin (vicky.linyuting@gmail.com). Knit [Lin_et_al_MB.Rmd](Lin_et_al_MB.Rmd) to generate html and extract R code.
 
 
 1. **Author Information**
