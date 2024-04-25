@@ -2,7 +2,27 @@
 
 ---
 
-This README was generated on 2024-04-25 by Yuting Vicky Lin (vicky.linyuting@gmail.com). Knit [Lin_et_al_MB.Rmd](Lin_et_al_MB.Rmd) to generate html and extract R code.
+This README was generated on 2024-04-25 by Yuting Vicky Lin (vicky.linyuting@gmail.com). Knit 
+
+
+
+Data and script to replicate analyses in Lin et al. (202X). Knit [Lin_et_al_MB.Rmd](Lin_et_al_MB.Rmd) to generate html and extract R code. If used in full or in part, please cite the original publication as well as the dataset on Dryad:
+
+Lin YV, Chen YL, De Palmas S, Carballo-Bolaños R, Guerbet A, Ribas-Deulofeu L, Tsai CB, Wei Y, Denis V (202X) Rapid shift in benthic assemblages following coral bleaching at an upper mesophotic habitat in Taiwan. XXX
+
+Dataset: Lin YV, Chen YL, De Palmas S, Carballo-Bolaños R, Guerbet A, Ribas-Deulofeu L, Tsai CB, Wei Y, Denis V (Forthcoming 2024). Data from: Rapid shift in benthic assemblages following coral bleaching at an upper mesophotic habitat in Taiwan [Dataset]. Dryad. https://doi.org/10.5061/dryad.d2547d89b
+
+A study from FRElab, Institute of Oceanography, National Taiwan University, TAIWAN
+
+Plain Language Summaries:
+
+漢語
+
+XXX
+
+English
+
+XXX
 
 
 1. **Author Information**
