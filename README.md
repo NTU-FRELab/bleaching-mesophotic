@@ -2,9 +2,7 @@
 
 ---
 
-This README was generated on 2024-04-25 by Yuting Vicky Lin (vicky.linyuting@gmail.com). Knit 
-
-
+This README was generated on 2024-04-25 by Yuting Vicky Lin (vicky.linyuting@gmail.com). 
 
 Data and script to replicate analyses in Lin et al. (202X). Knit [Lin_et_al_MB.Rmd](Lin_et_al_MB.Rmd) to generate html and extract R code. If used in full or in part, please cite the original publication as well as the dataset on Dryad:
 
