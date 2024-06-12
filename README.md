@@ -12,11 +12,11 @@ Dataset: Lin YV, Chen YL, De Palmas S, Carballo-Bolaños R, Guerbet A, Ribas-Deu
 
 A study from FRElab, Institute of Oceanography, National Taiwan University, TAIWAN
 
-Plain Language Summaries:
-English 
+## Plain Language Summaries
+### English
     Mesophotic coral ecosystems (MCEs), found at depths of 30-150 meters, have been seen as a potential refuge for shallow-water organisms. However, recent studies suggest that this role varies depending on the situation. In this study, we examined a unique habitat at the upper mesophotic depth (30 meters) in Xiaoliuqiu, Taiwan, and tracked the changes in the coral community one year after a heatwave hit the reef. In this habitat, we found many branching corals that thrive in deeper waters, living on a sandy-rubble bottom with dense turf algae. In 2022, 63.6% of these corals were bleached due to severe heat stress affecting the shallow reefs. The most affected coral species, <i>Acropora tenella</i>, had only 9.7% of its population remain healthy. A year later, there was a significant shift in the dominant coral species from <i>A. tenella</i> to <i>Anacropora</i> spp., although the overall coral cover did not change much. We believe this rapid shift happened because <i>Anacropora</i> spp. benefited from the dense canopy provided by <i>A. tenella</i>. Our findings suggest that the composition of understory organisms, such as <i>Anacropora</i> spp., may play a key role in how some reefs recover from disturbances. The characteristics of this habitat, dominated by deep-water specialists, and its vulnerability to stressors indicate that it is unlikely to serve as a refuge for most shallow-water species. This study highlights that MCEs are not universally effective as refuges and underscores the need to include these unique habitats in conservation efforts and to better understand their functions before they are lost.
 
-中文 
+### 中文
     中光層珊瑚生態系統（Mesophotic coral ecosystems ; MCEs），位於30-150米的深度，長期地被視為淺水生物的潛在庇護所。然而，最近的研究發現，這個庇護所的角色會因情況而有所不同。在這項研究中，我們調查了位於台灣小琉球中光層上層（30米）的獨特棲地，並追踪了熱浪襲擊此棲地一年後珊瑚群落的變化。在這個棲地中，我們發現許多生長在中光層的分枝狀珊瑚，這些珊瑚和密集的絲狀藻類一同棲息在沙礫上。2022年，由於影響淺水珊瑚礁的嚴重熱浪，這些珊瑚有63.6％白化。受影響最嚴重的珊瑚物種是 <i>Acropora tenella</i>，其僅有9.7％的族群保持健康。一年後，儘管總體珊瑚覆蓋率變化不大，優勢珊瑚物種卻從 <i>A. tenella</i> 明顯地轉變為 <i>Anacropora</i> spp.。我們認為這一快速轉變是因為 <i>Anacropora</i> spp. 從 <i>A. tenella</i> 提供的密集樹冠中受益。我們的研究結果表示，像 Anacropora spp. 這樣生活在樹冠層底部的物種，可能在某些珊瑚礁的擾動事件中扮演了珊瑚群落恢復健康的關鍵角色。這個主要由中光層專化種主導的棲地特徵，及其對環境壓力的脆弱性顯明，該棲地不太可能成為大多數淺水物種的庇護所。這項研究強調了中光層珊瑚生態系統作為庇護所的效果並非普遍適用，並強調了在保育工作中納入這些獨特棲地的必要性，以及在它們消失之前更深入地了解它們的生態功能。
    
 1. **Author Information**
