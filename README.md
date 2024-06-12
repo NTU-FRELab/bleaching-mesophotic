@@ -71,7 +71,7 @@ Mesophotic coral ecosystems (MCEs), found at depths of 30-150 meters, have been 
 Science and Technology Council of Taiwan, Ocean Conservation Administration of Taiwan
 
 5. **Recommended citation for this dataset**:
-6. 
+
 Lin YV, Chen YL, De Palmas S, Carballo-Bolaños R, Guerbet A, Ribas-Deulofeu L, Tsai CB, Wei Y, Denis V (2024) Data from: Rapid shift in benthic assemblages following coral bleaching at an upper mesophotic habitat in Taiwan, Dryad, Dataset, [https://doi.org/10.5061/dryad.d2547d89b](https://doi.org/10.5061/dryad.d2547d89b)
 
 [Data and R script are also available through the GitHub repository https://github.com/NTU-FRELab/bleaching-mesophotic in order to replicate our analyses]
