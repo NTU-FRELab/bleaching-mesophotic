@@ -4,11 +4,11 @@
 
 This README.md was generated on 2024-04-25 by Yuting Vicky Lin (vicky.linyuting@gmail.com). 
 
-Data and script to replicate analyses in Lin et al. (202X). Knit [Lin_et_al_MB.Rmd](Lin_et_al_MB.Rmd) to generate html and extract R code. If used in full or in part, please cite the original publication as well as the dataset on Dryad:
+Data and script to replicate analyses in Lin et al. (2024). Knit [Lin_et_al_MB.Rmd](Lin_et_al_MB.Rmd) to generate .html and extract R code. If used in full or in part, please cite the original publication as well as the dataset on Dryad:
 
-Lin YV, Chen YL, De Palmas S, Carballo-Bolaños R, Guerbet A, Ribas-Deulofeu L, Tsai CB, Wei Y, Denis V (202X) Rapid shift in benthic assemblages following coral bleaching at an upper mesophotic habitat in Taiwan. XXX
+Lin YV, Chen YL, De Palmas S, Carballo-Bolaños R, Guerbet A, Ribas-Deulofeu L, Tsai CB, Wei Y, Denis V (2024) Rapid shift in benthic assemblages following coral bleaching at an upper mesophotic habitat in Taiwan. Marine Biodiversity 54:53 https://doi.org/10.1007/s12526-024-01445-5
 
-Dataset: Lin YV, Chen YL, De Palmas S, Carballo-Bolaños R, Guerbet A, Ribas-Deulofeu L, Tsai CB, Wei Y, Denis V (Forthcoming 2024). Data from: Rapid shift in benthic assemblages following coral bleaching at an upper mesophotic habitat in Taiwan [Dataset]. Dryad. https://doi.org/10.5061/dryad.d2547d89b
+Dataset: Lin YV, Chen YL, De Palmas S, Carballo-Bolaños R, Guerbet A, Ribas-Deulofeu L, Tsai CB, Wei Y, Denis V (2024). Data from: Rapid shift in benthic assemblages following coral bleaching at an upper mesophotic habitat in Taiwan [Dataset]. Dryad. https://doi.org/10.5061/dryad.d2547d89b
 
 A study from FRElab, Institute of Oceanography, National Taiwan University, TAIWAN
 
@@ -71,7 +71,7 @@ XXX
 4. **Funding sources that supported the collection of the data**:  National Science and Technology Council of Taiwan, Ocean Conservation Administration of Taiwan
 
 5. **Recommended citation for this dataset**
-Lin YV, Chen YL, De Palmas S, Carballo-Bolaños R, Guerbet A, Ribas-Deulofeu L, Tsai CB, Wei Y, Denis V (2024) Data from: Rapid shift in benthic assemblages following coral bleaching at an upper mesophotic habitat in Taiwan, Dryad, Dataset, https://doi.org/????
+Lin YV, Chen YL, De Palmas S, Carballo-Bolaños R, Guerbet A, Ribas-Deulofeu L, Tsai CB, Wei Y, Denis V (2024) Data from: Rapid shift in benthic assemblages following coral bleaching at an upper mesophotic habitat in Taiwan, Dryad, Dataset, [https://doi.org/10.5061/dryad.d2547d89b](https://doi.org/10.5061/dryad.d2547d89b)
 
 [Data and R script are also available through the GitHub repository https://github.com/NTU-FRELab/bleaching-mesophotic in order to replicate our analyses]
 
@@ -86,32 +86,17 @@ Lin YV, Chen YL, De Palmas S, Carballo-Bolaños R, Guerbet A, Ribas-Deulofeu L, 
 
 2. **File List**
 
-  + File 1: Linetal_dataset_Benthic.csv
-    + File 1 description: benthic and bleaching annoatated points of the 6 sampling transects in 2022 and 2023, respectively
+  + File 1: Linetal_dataset_Benthic.csv: benthic and bleaching annotated points of the 6 sampling transects in 2022 and 2023, respectively
 
-  + File 2: Linetal_dataset_dhw_5km_XLQ.nc
-    + File 2 description: daily temperature and degree heating week data in Venice, Xiaoliuqiu in 2022 and 2023, respectively
+  + File 2: Linetal_dataset_dhw_5km_XLQ.nc: daily temperature and degree heating week data in Venice, Xiaoliuqiu in 2022 and 2023, respectively
 
-  + File 3: Linetal_dataset_TWN_adm0.shp
-    + File 3 description: file of Taiwan map used to generate Figure 1b
-
-  + File 4: Linetal_dataset_TWN_adm0.cpg
-    + File 4 description: file of Taiwan map used to generate Figure 1b
-
-  + File 5: Linetal_dataset_TWN_adm0.dbf
-    + File 5 description: file of Taiwan map used to generate Figure 1b
-
-  + File 6: Linetal_dataset_TWN_adm0.prj
-    + File 6 description: file of Taiwan map used to generate Figure 1b
-
-  + File 7: Linetal_dataset_TWN_adm0.shx
-    + File 7 description: file of Taiwan map used to generate Figure 1b
+  + File 3: Linetal_dataset_TWN_adm0.shp, .cpg, .dbf, .prj, .shx: files of Taiwan map used to generate Figure 1b
 
 
 ### METHODOLOGICAL INFORMATION
 
-   A detailed description of data acquisition and processing can be found in the published manuscript in the XXX (https://doi.org/XXX)
-
+   A detailed description of data acquisition and processing can be found in the published manuscript in Marine Biodiversity (https://doi.org/10.1007/s12526-024-01445-5)
+   
 
 #### DATA-SPECIFIC INFORMATION
 
