@@ -118,7 +118,7 @@ Lin YV, Chen YL, De Palmas S, Carballo-Bolaños R, Guerbet A, Ribas-Deulofeu L, 
     *   Column H – 2023_T2
     *   Column I – 2023_T3
 5.  Descriptions
-This file has benthic and bleaching annotated points of the 6 transects sampled from 2022 and 2023, respectively. Abbreviations used for variables are as below:
+This file has benthic and bleaching annotated points of the 6 transects sampled from 2022 and 2023, respectively. Only stony and soft corals have bleaching status. Abbreviations used for variables are as below:
    1:  Major_cate: Major category
    2:  Label: for corals, the label contains the information of species identity and its morphology; for the other major categories, the label contains the information of species identity
    3.  CCA: crustose coralline algae
