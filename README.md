@@ -101,32 +101,49 @@ Lin YV, Chen YL, De Palmas S, Carballo-Bolaños R, Guerbet A, Ribas-Deulofeu L, 
 
 #### DATA-SPECIFIC INFORMATION
 
-
 ##### **Linetal_dataset_Benthic.csv**
 
-1. Number of variables/columns: 10
-
-2. Number of cases/rows: 46
-
-3. Missing data codes
-
+1.  Number of variables/columns: 10
+2.  Number of cases/rows: 46
+3.  Missing data codes
     None
+4.  Variable List
+    *   Column A - Major_cate
+    *   Column B - Label
+    *   Column C - Bleached_status
+    *   Column D - 2022_T1
+    *   Column E – 2022_T2
+    *   Column F – 2022_T3
+    *   Column G – 2023_T1
+    *   Column H – 2023_T2
+    *   Column I – 2023_T3
+5.  Descriptions
+This file has benthic and bleaching annotated points of the 6 transects sampled from 2022 and 2023, respectively. Abbreviations used for variables are as below:
+   1:  Major_cate: Major category
+   2:  Label: for corals, the label contains the information of species identity and its morphology; for the other major categories, the label contains the information of species identity
+   3.  CCA: crustose coralline algae
 
-4. Variable List
+##### **Linetal_dataset_dhw_5km_XLQ.nc**
 
-    + Column A - Major_cate
-    + Column B - Label
-    + Column C - Bleached_status
-    + Column D - 2022_T1
-    + Column E – 2022_T2
-    + Column F – 2022_T3
-    + Column G – 2023_T1
-    + Column H – 2023_T2
-    + Column I – 2023_T3
-    
+1.  Latitude: 22.325; Longitude: 120.375
+2.  Time: 2022/1/1 - 2023/12/31
+3.  Missing data codes
+    None
+4.  Variable: CRW_SST, CRW_DHW, CRW_BAA
+5.  Descriptions
+This .nc file has the daily sea surface temperature, bleaching alert and degree heating week data in Venice, Xiaoliuqiu from 2022 to 2023, and was used to generate Figure 2. Abbreviations used for variables are as below:
+   1:  CRW_SST: daily sea surface temperature
+   2:  CRW_DHW: degree heating week 
+   3.  CRW_BAA: bleaching alert
 
-5. Abbreviations used
-  
-    + for Major_cate: 
-      + Major_cate: Major category
-      + CCA: crustose coralline algae
+
+##### **Linetal_dataset_TWN_adm0.shp, .cpg, .dbf, .prj, .shx**
+
+1.  Geometry type: MULTIPOLYGON
+2.  Spatial boundary: latitude - 116.71 to 122.1085; longitude - 20.6975 to 25.63431
+3.  Missing data codes
+    None
+4.  Spatial reference: WGS 84
+5.  Descriptions
+This shapefile contains spatial polygons within the specified spatial boundary, which is used for generating the map of our sampling site, Xiaoliuqiu, Taiwan.
+
