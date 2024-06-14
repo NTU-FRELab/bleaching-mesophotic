@@ -13,8 +13,9 @@ Data and script to replicate analyses in Lin et al. (2024). If used in full or i
 
 Lin YV, Chen YL, De Palmas S, Carballo-Bolaños R, Guerbet A, Ribas-Deulofeu L, Tsai CB, Wei Y, Denis V (2024) Rapid shift in benthic assemblages following coral bleaching at an upper mesophotic habitat in Taiwan. Marine Biodiversity 54:53 https://doi.org/10.1007/s12526-024-01445-5
 
-Raw data also available on [Dryad](https://doi.org/10.5061/dryad.d2547d89b)
+Raw data is also available on [Dryad](https://doi.org/10.5061/dryad.d2547d89b)
 
+A study from [FRElab](https://www.dipintothereef.com/)
 
 # **Packages**
 ```{r eval = TRUE, echo=T, message=F, warning=F}
