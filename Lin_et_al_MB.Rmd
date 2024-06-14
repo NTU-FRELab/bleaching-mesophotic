@@ -15,8 +15,6 @@ Lin YV, Chen YL, De Palmas S, Carballo-Bolaños R, Guerbet A, Ribas-Deulofeu L, 
 
 Raw data also available on [Dryad](https://doi.org/10.5061/dryad.d2547d89b)
 
-A study from [FRElab](https://www.dipintothereef.com/)
-
 
 # **Packages**
 ```{r eval = TRUE, echo=T, message=F, warning=F}
